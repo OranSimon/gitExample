@@ -1,2 +1,3 @@
 boss,twang682,Wang,Terence
 employee,jzhang2647,Zhang,Jiawei
+employee,snegus,Negus,Samuel
